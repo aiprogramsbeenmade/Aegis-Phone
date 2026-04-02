@@ -1,0 +1,28 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Configurazioni sensibili (NON PUBBLICARE MAI)
+.env
+
+# Dati delle scansioni (Report generati)
+data/
+*.json
+*.html
+
+# OSINT Tool Logs
+*.log
+
+# macOS
+.DS_Store
+
+bin
+lib
+pyvenv.cfg
+.idea
+src/data
+test
