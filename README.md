@@ -16,7 +16,7 @@ AegisPhone è un potente strumento di investigazione digitale (OSINT) progettato
 
 1. **Clona il repository**:
    ```bash
-   git clone [https://github.com/tuo-username/AegisPhone.git](https://github.com/tuo-username/AegisPhone.git)
+   git clone https://github.com/aiprogramsbeenmade/Aegis-Phone.git
    cd AegisPhone
    ```
 2. **Installa le dipendenze**:
