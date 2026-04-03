@@ -5,7 +5,7 @@ import json
 
 
 async def main():
-    target = "+393331234567"  # Cambia col numero che vuoi
+    target = input("Inserisci il numero (compreso di prefisso): ")  # Cambia col numero che vuoi
     json_p, html_p, summary = await run_full_scan(target)
 
     # Carichiamo i risultati per la tabella grafica
